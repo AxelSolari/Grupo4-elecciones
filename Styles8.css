@@ -32,6 +32,7 @@ body {
 
 .input-se {
   margin-left: 5px;
+  box-shadow: 2px 2px 3px;
 }
 
 .busqueda {
@@ -97,14 +98,27 @@ body {
 .titulo-can {
   text-align: center;
   margin: 30px;
+  text-decoration: underline;
+}
+
+.nombres {
+  margin: 10px;
 }
 
 .images {
   width: 400px;
+  margin: 10px;
+  border-radius: 10%;
 }
 
 .candida {
   display: flex;
   flex-direction: row;
+  margin: 10px 5px;
 }
 
+.contenedor-p {
+  text-align: center;
+  margin: 15px 10px;
+  box-shadow: 3px 3px 3px;
+}
