@@ -61,6 +61,7 @@ body {
   text-decoration: none;
   font-size: 20px;
   font-weight: bold;
+  
 }
 /* Cuerpo principal */
 
@@ -121,4 +122,11 @@ body {
   text-align: center;
   margin: 15px 10px;
   box-shadow: 3px 3px 3px;
+}
+
+/* Pagina con formulario */
+
+.titulo-form {
+  text-align: center;
+  margin: 20px;
 }
