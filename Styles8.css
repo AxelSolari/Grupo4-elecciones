@@ -1,0 +1,110 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+/* Navegacion 1 + banner y nav 2 */
+.nav1 {
+  background-color: cadetblue;
+  padding-bottom: 5px;
+}
+
+.icons {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  margin-right: 30px;
+}
+
+.ic {
+  margin-right: 10px;
+  margin-top: 15px;
+}
+
+.titulosup {
+  text-align: center;
+  margin-bottom: 10px;
+  font-size: 40px;
+  color: white;
+}
+
+.input-se {
+  margin-left: 5px;
+}
+
+.busqueda {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+  color: white;
+}
+
+.banner {
+  max-width: 100%;
+}
+
+.menu {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  background-color: cadetblue;
+  padding: 10px;
+  margin-top: -5px;
+}
+
+.enlace {
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: bold;
+}
+/* Cuerpo principal */
+
+.cuerpo {
+  text-align: center;
+  margin-top: 30px;
+
+}
+
+.titulo-1 {
+ margin-bottom: 20px;
+ text-decoration: underline;
+}
+
+.texto {
+  margin: 30px;
+}
+
+.img-fechas {
+  display: flex;
+  justify-content: center;
+}
+
+/* Footer */
+
+.footer {
+  background-color: cadetblue;
+  text-align: center;
+  margin-top: 30px;
+  font-size: 20px;
+}
+
+/* Pagina Candidatos */
+
+.titulo-can {
+  text-align: center;
+  margin: 30px;
+}
+
+.images {
+  width: 400px;
+}
+
+.candida {
+  display: flex;
+  flex-direction: row;
+}
+
